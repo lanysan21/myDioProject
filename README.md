@@ -1,4 +1,4 @@
-Rotina de um QA: Explorando Testes Manuais e Funcionais na Prática
+Explorando Testes Manuais e Funcionais na Prática
 Este repositório apresenta o desafio "A Rotina de um QA", que simula situações reais do dia a dia de um profissional de Quality Assurance, 
 com foco em testes manuais e funcionais.
 
